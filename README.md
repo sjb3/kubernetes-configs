@@ -1,7 +1,3 @@
-<!-- Annotation -->
-
-<!-- https://gitlab.com/nanuchi/youtube-tutorial-series/-/blob/master/basic-kubectl-commands/cli-commands.md -->
-
 ### install hyperhit and minikube
 
 `brew update`
@@ -85,3 +81,7 @@
 #Metrics
 
 `kubectl top` The kubectl top command returns current CPU and memory usage for a cluster’s pods or nodes, or for a particular pod or node if specified.
+
+`Annotation`
+
+`https://gitlab.com/nanuchi/youtube-tutorial-series/-/blob/master/basic-kubectl-commands/cli-commands.md`
